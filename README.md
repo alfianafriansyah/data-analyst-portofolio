@@ -12,7 +12,7 @@ Setiap proyek disusun sebagai studi kasus end-to-end: business problem → query
 
 ## Tentang Saya
 
-Lulusan Fisika Medis (Universitas Brawijaya) yang bertransisi ke data analyst. Latar belakang sains kuantitatif + pengalaman kepemimpinan organisasi memberi pendekatan analitis yang terstruktur dalam membaca data dan menyusun rekomendasi.
+Lulusan Fisika Murni Universitas Brawijaya dengan interest di bidang data. Latar belakang sains kuantitatif + pengalaman kepemimpinan organisasi memberi pendekatan analitis yang terstruktur dalam membaca data dan menyusun rekomendasi.
 
 **Skills:** SQL (window functions, CTE, agregasi kompleks), BigQuery, Looker Studio, Python (pandas), dashboard & reporting.
 
