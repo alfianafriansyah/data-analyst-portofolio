@@ -1,11 +1,9 @@
 # Kopi Nangkau Business Analysis
-**Strategy untuk Meningkatkan Strategi Penjualan yang Lebih Efisien**
 
 ## 1. Business Problem
-Seiring dengan pertumbuhan pelanggan dan variasi produk yang terus bertambah, perusahaan mulai menyadari pentingnya memanfaatkan data penjualan untuk mengoptimalkan strategi bisnis mereka. Berdasarkan data transaksi harian dari tahun 2021 hingga 2023, Manajemen ingin mendapatkan insight mendalam seputar produk terlaris, tren penjualan dari tahun ke tahun, efektivitas promo musiman, hingga potensi pertumbuhan ke depan.
+As its customer base and product portfolio expanded, the company sought to leverage sales data to improve business performance. This project analyzes daily transaction data from 2021–2023 to identify top-performing products, sales trends, seasonal patterns, and growth opportunities for future business strategy.
 
-
-- **Dataset:** 6600 transaksi Kopi Nangkau, periode 2021 - 2023. Di dalamnya mencakup tanggal, bulan, dan tahun transaksi, unit terjual, dan harga per unit
+- **Dataset:** A dataset containing over 6,600 Kopi Nangkau transactions from 2021 to 2023, including transaction date, month, year, units sold, and unit price.
 - **Tools:** Phyton, Google Colab
 
 ## 3. Key Findings
