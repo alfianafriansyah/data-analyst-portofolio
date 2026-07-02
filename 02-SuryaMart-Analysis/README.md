@@ -27,6 +27,7 @@ SuryaMart is a multi-category e-commerce company seeking to evaluate the effecti
 
 
 ## 5. Dashboard
+![Scorecard SuryaMart](./dashboard-screenshots/dashboard.png)
 
 ---
 **Author:** Alfian Afriansyah · alfianafriansyah@gmail.com
