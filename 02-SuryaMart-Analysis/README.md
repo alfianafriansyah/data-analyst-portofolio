@@ -1,5 +1,4 @@
 # Surya Mart Business Analysis
-**Strategy untuk Meningkatkan Strategi Penjualan yang Lebih Efisien**
 
 ## 1. Business Problem
 SuryaMart is a multi-category e-commerce company seeking to evaluate the effectiveness of its digital marketing campaigns. This project analyzes customer purchase behavior to help optimize future marketing strategies and improve overall campaign performance.
